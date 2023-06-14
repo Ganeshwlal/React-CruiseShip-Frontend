@@ -1,0 +1,18 @@
+
+.common_section{
+    background: linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)), 
+    url('https://images.thrillophilia.com/image/upload/s--vI0Q6HT9--/c_fill,g_auto,h_600,q_auto,w_975/f_auto,fl_strip_profile/v1/images/photos/000/082/497/original/1675261154_shutterstock_2148766633.jpg.jpg') no-repeat center center;
+    background-size: cover;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+.common_section h1{
+    font-size: 2.5rem;
+    color: #fff;
+
+}
+
+
